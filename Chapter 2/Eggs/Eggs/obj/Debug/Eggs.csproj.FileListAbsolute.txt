@@ -1,0 +1,5 @@
+C:\Users\Programming\Downloads\Eggs\Eggs\bin\Debug\Eggs.exe.config
+C:\Users\Programming\Downloads\Eggs\Eggs\bin\Debug\Eggs.exe
+C:\Users\Programming\Downloads\Eggs\Eggs\bin\Debug\Eggs.pdb
+C:\Users\Programming\Downloads\Eggs\Eggs\obj\Debug\Eggs.exe
+C:\Users\Programming\Downloads\Eggs\Eggs\obj\Debug\Eggs.pdb

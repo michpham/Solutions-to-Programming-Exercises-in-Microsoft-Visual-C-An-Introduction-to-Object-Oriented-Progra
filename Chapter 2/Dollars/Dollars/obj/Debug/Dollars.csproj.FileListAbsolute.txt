@@ -1,0 +1,5 @@
+C:\Users\Programming\Downloads\Dollars\Dollars\bin\Debug\Dollars.exe.config
+C:\Users\Programming\Downloads\Dollars\Dollars\bin\Debug\Dollars.exe
+C:\Users\Programming\Downloads\Dollars\Dollars\bin\Debug\Dollars.pdb
+C:\Users\Programming\Downloads\Dollars\Dollars\obj\Debug\Dollars.exe
+C:\Users\Programming\Downloads\Dollars\Dollars\obj\Debug\Dollars.pdb

@@ -1,0 +1,6 @@
+C:\Users\Programming\Downloads\DoubleDecimalTest\DoubleDecimalTest\obj\Debug\DoubleDecimalTest.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Downloads\DoubleDecimalTest\DoubleDecimalTest\bin\Debug\DoubleDecimalTest.exe.config
+C:\Users\Programming\Downloads\DoubleDecimalTest\DoubleDecimalTest\bin\Debug\DoubleDecimalTest.exe
+C:\Users\Programming\Downloads\DoubleDecimalTest\DoubleDecimalTest\bin\Debug\DoubleDecimalTest.pdb
+C:\Users\Programming\Downloads\DoubleDecimalTest\DoubleDecimalTest\obj\Debug\DoubleDecimalTest.exe
+C:\Users\Programming\Downloads\DoubleDecimalTest\DoubleDecimalTest\obj\Debug\DoubleDecimalTest.pdb
