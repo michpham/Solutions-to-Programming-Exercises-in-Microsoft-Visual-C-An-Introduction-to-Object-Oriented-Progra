@@ -1,0 +1,5 @@
+C:\Users\Programming\Downloads\Exercise 9\BurmaShave\BurmaShave\bin\Debug\BurmaShave.exe.config
+C:\Users\Programming\Downloads\Exercise 9\BurmaShave\BurmaShave\bin\Debug\BurmaShave.exe
+C:\Users\Programming\Downloads\Exercise 9\BurmaShave\BurmaShave\bin\Debug\BurmaShave.pdb
+C:\Users\Programming\Downloads\Exercise 9\BurmaShave\BurmaShave\obj\Debug\BurmaShave.exe
+C:\Users\Programming\Downloads\Exercise 9\BurmaShave\BurmaShave\obj\Debug\BurmaShave.pdb

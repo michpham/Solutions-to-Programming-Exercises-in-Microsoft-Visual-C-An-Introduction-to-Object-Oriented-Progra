@@ -1,0 +1,5 @@
+C:\Users\Programming\Downloads\GreenvilleMotto\GreenvilleMotto\bin\Debug\GreenvilleMotto.exe.config
+C:\Users\Programming\Downloads\GreenvilleMotto\GreenvilleMotto\bin\Debug\GreenvilleMotto.exe
+C:\Users\Programming\Downloads\GreenvilleMotto\GreenvilleMotto\bin\Debug\GreenvilleMotto.pdb
+C:\Users\Programming\Downloads\GreenvilleMotto\GreenvilleMotto\obj\Debug\GreenvilleMotto.exe
+C:\Users\Programming\Downloads\GreenvilleMotto\GreenvilleMotto\obj\Debug\GreenvilleMotto.pdb

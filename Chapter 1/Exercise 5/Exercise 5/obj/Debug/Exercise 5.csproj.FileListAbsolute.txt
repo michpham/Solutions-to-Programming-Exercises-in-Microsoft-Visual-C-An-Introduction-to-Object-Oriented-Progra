@@ -1,0 +1,6 @@
+C:\Users\Programming\Downloads\Exercise 5\Exercise 5\bin\Debug\Exercise 5.exe.config
+C:\Users\Programming\Downloads\Exercise 5\Exercise 5\bin\Debug\Exercise 5.exe
+C:\Users\Programming\Downloads\Exercise 5\Exercise 5\bin\Debug\Exercise 5.pdb
+C:\Users\Programming\Downloads\Exercise 5\Exercise 5\obj\Debug\Exercise 5.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Downloads\Exercise 5\Exercise 5\obj\Debug\Exercise 5.exe
+C:\Users\Programming\Downloads\Exercise 5\Exercise 5\obj\Debug\Exercise 5.pdb
